@@ -46,6 +46,7 @@
 .top_title {
   position: relative;
   line-height: 1;
+  text-align: center;
   top: -60px;
 }
 
@@ -59,6 +60,7 @@
 }
 
 .top_inner p {
+  text-align: center;
   font-size: 20px;
   color: #777;
   position: relative;
